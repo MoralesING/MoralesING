@@ -7,6 +7,19 @@ code = "HTML, JS, CSS,"
 
 }
 ```
+ Hi, I'm Morales 
+ A young technology enthusiast, taking my first steps into the world of programming. Excited to learn new skills and overcome challenges, I have decided to start documenting 
+ my progress and projects on GitHub. Here, I will share my progress, from small scripts to more complex applications, as I dive into various programming languages and 
+ development tools. This is just the beginning of my journey to becoming a developer!
+
+ > !Coming Soon! "Personal Website Project"
+
+
+
+
+
+
+
 
 <!--
 **MoralesING/MoralesING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +36,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Hi, I'm Morales 
- A young technology enthusiast, taking my first steps into the world of programming. Excited to learn new skills and overcome challenges, I have decided to start documenting 
- my progress and projects on GitHub. Here, I will share my progress, from small scripts to more complex applications, as I dive into various programming languages and 
- development tools. This is just the beginning of my journey to becoming a developer!
+ 
