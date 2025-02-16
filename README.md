@@ -12,7 +12,7 @@ code = "Java"
  my progress and projects on GitHub. Here, I will share my progress, from small scripts to more complex applications, as I dive into various programming languages and 
  development tools. This is just the beginning of my journey to becoming a developer!
 
- > !Coming Soon! "Personal Website Project"
+ 
 
 
 
