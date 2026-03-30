@@ -1,16 +1,12 @@
 ## "Welcome to the world of a Programming student."  👋
 
 ```js
-const Morales_Dev = {
-pronouns = "he"|"him"
+const Morales_IDS = {
 code = "Java"
 
 }
 ```
- Hi, I'm Morales 
- A young technology enthusiast, taking my first steps into the world of programming. Excited to learn new skills and overcome challenges, I have decided to start documenting 
- my progress and projects on GitHub. Here, I will share my progress, from small scripts to more complex applications, as I dive into various programming languages and 
- development tools. This is just the beginning of my journey to becoming a developer!
+Hi, I'm Morales. I'm a young tech enthusiast taking my first steps into the world of programming. Eager to learn new skills and overcome challenges, I've decided to create a development studio on GitHub to document my progress and projects. Here, I'll share my development, from small projects to more complex applications, as I delve into various programming languages ​​and development tools. This is just the beginning of my journey to becoming a senior developer!
 
  
 
